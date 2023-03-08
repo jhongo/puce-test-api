@@ -1,0 +1,83 @@
+{
+
+    "api": { 
+    "info": {
+        "name": "Puce Test",
+        "modalidades": "4"
+    },
+    "data":[
+        {
+            "id":1,
+            "modalidad":"Presencial",
+            "periodos":[
+                {
+                    "id":1,
+                    "nombre":"1er. Periodo 2023",
+                    "url":"https://eva.puce.edu.ec/2023-01/",
+                    "estado":"Periodo actual"
+                },
+                {
+                    "id":2,
+                    "nombre":"Educación Continua 2023-01",
+                    "url":"https://educacioncontinua.puce.edu.ec/2023-01/",
+                    "estado":"Periodo actual"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "modalidad":"Semipresencial",
+            "periodos":[
+                {
+                    "id":1,
+                    "nombre":"1er. Periodo 2023",
+                    "url":"https://evasemi.puce.edu.ec/2023-01/",
+                    "estado":"Periodo actual"
+                },
+                {
+                    "id":2,
+                    "nombre":"Formación Técnica y Tecnológicas 2023",
+                    "url":"https://pucetec.puce.edu.ec/2023-01/",
+                    "estado":"Periodo actual"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "modalidad":"Online",
+            "periodos":[
+                {
+                    "id":1,
+                    "nombre":"Oferta Nacional 2023",
+                    "url":"https://ofertanacional.puce.edu.ec/",
+                    "estado":"Periodo actual"
+                },
+                {
+                    "id":2,
+                    "nombre":"Maestrías en Línea 2023-2022",
+                    "url":"https://maestriasenlinea.puce.edu.ec/2022-01/",
+                    "estado":"Periodo actual"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "modalidad":"Posgrado",
+            "periodos":[
+                {
+                    "id":1,
+                    "nombre":"Oferta Nacional 2023",
+                    "url":"https://ofertanacional.puce.edu.ec/",
+                    "estado":"Periodo actual"
+                },
+                {
+                    "id":2,
+                    "nombre":"Posgrados 2023-01",
+                    "url":"https://evaposgrado.puce.edu.ec/2023-01/",
+                    "estado":"Periodo actual"
+                }
+            ]
+        }
+    ]
+    }
+}
